@@ -1,9 +1,9 @@
 # Google Apps Script Project: mcpher
-This repo (mcpher) was automatically updated on 13 February 2015 21:20:21 GMT by GasGit
+This repo (mcpher) was automatically updated on 15 September 2015 11:48:56 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project mcpher
-Where possibile directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
+Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [mcpher is here](https://script.google.com/d/1hhJ8M6z99XccL8WRq2d24-pWGwhq8EfYNaQIQV0CEe5gE1HbBoF4X9W_/edit?usp=sharing "open in the GAS IDE")
 
 ### Modules of mcpher.gs included in this repo
@@ -39,6 +39,8 @@ no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
-no libraries discovered
+*library*|*identifier*|*version*
+--- | --- | --- 
+Drive API| Drive|v2
 ###Need more detail ?
 You can see [full project info as json here](info.json)

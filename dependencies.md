@@ -1,5 +1,5 @@
 # Google Apps Script Project: mcpher
-This repo (mcpher) was automatically updated on 27 July 2016 10:34:52 BST by GasGit
+This repo (mcpher) was automatically updated on 20 November 2017 12:50:07 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project mcpher

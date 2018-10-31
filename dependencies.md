@@ -1,5 +1,5 @@
 # Google Apps Script Project: mcpher
-This repo (mcpher) was automatically updated on 20 November 2017 12:50:07 GMT by GasGit
+This repo (mcpher) was automatically updated on 31 October 2018 11:40:06 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project mcpher
@@ -34,11 +34,14 @@ badges| server_js
 assertion| server_js
 usefulColors| server_js
 cDigestAuth| server_js
+appsscript| json
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
 no libraries discovered
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
